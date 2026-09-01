@@ -1,8 +1,6 @@
 <h1 align="center">
  <strong>Olá, eu sou João Lucas Abdala Zambreti</strong>
- <p align="center">
-<a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=inspire&logoColor=white"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=inspire&logoColor=white&color=0d1117"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=instagram&logoColor=white&color=0d1117"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=whatsapp&logoColor=white&color=0d1117"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=maildotru&logoColor=white&color=0d1117"></a> </p>
 </h1>
 
 <h3 align="center">🐞 QA Tester | Manual Testing | API Testing | Cypress 🐞 </h3>
