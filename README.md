@@ -39,6 +39,4 @@ Busco minha primeira oportunidade profissional na área de **Quality Assurance**
 
 <h1 align="center">Contatos</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=inspire&logoColor=white"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=maildotru&logoColor=white"></a> </p>
