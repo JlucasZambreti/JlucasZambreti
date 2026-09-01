@@ -7,25 +7,17 @@
 Sou profissional em transição de carreira para a área de Qualidade de Software (QA), com foco em iniciar minha atuação como Analista de Testes/QA Júnior.<br>
 Atualmente estou desenvolvendo conhecimentos em testes manuais, testes de API e automação de testes, utilizando ferramentas como Cypress e Postman.
 
-## 🧪 Conhecimentos
-
-* Test Case Design
-* Functional Testing
-* Regression Testing
-* Exploratory Testing
-* Bug Reporting
-* API Testing
-* End-to-End Testing
-* Test Automation
-
-## 🛠️ Ferramentas
-
-* Cypress
-* Postman
-* Git
-* GitHub
-* Chrome DevTools
-* SQL
+## 🧠 Conhecimentos
+| Tecnologia | Nível |
+|---|---|
+| Test Case Design | intermediário |
+| Functional Testing | intermediário |
+| Regression Testing | intermediário |
+| Exploratory Testing | intermediário |
+| Bug Reporting | intermediário |
+| API Testing | Em desenvolvimento |
+| End-to-End Testing | intermediário |
+| Test Automation | Em desenvolvimento |
 
 ## 📂 Projetos
 
@@ -44,8 +36,22 @@ Casos de teste, bug reports, checklists e documentação de testes.
 
 Busco minha primeira oportunidade profissional na área de **Quality Assurance**, onde possa aplicar meus conhecimentos, continuar aprendendo e contribuir para a qualidade dos produtos e sistemas.
 
-## 📫 Contato
+<h1 align="center">Contatos</h1>
+<h1 align="center">
+ 
+<a href="https://www.linkedin.com/in/joaozambreti/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"/>
+</a>
 
-**LinkedIn:** [seu LinkedIn aqui]
+<a href="https://www.instagram.com/joaozambreti/">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-**Email:** [seu email aqui]
+<a href="https://wa.me/5519997284843">
+  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+</a>
+
+<a href="mailto:joaolucasabdalazambretti@hotmail.com">
+ <img src="https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"/>
+</a>
+</h1>
