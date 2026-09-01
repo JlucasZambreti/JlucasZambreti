@@ -1,5 +1,8 @@
 <h1 align="center">
  <strong>Olá, eu sou João Lucas Abdala Zambreti</strong>
+ <p align="center">
+<a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=inspire&logoColor=white"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/-555555?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+</p>
 </h1>
 
 <h3 align="center">🐞 QA Tester | Manual Testing | API Testing | Cypress 🐞 </h3>
@@ -37,21 +40,7 @@ Casos de teste, bug reports, checklists e documentação de testes.
 Busco minha primeira oportunidade profissional na área de **Quality Assurance**, onde possa aplicar meus conhecimentos, continuar aprendendo e contribuir para a qualidade dos produtos e sistemas.
 
 <h1 align="center">Contatos</h1>
-<h1 align="center">
- 
-<a href="https://www.linkedin.com/in/joaozambreti/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"/>
-</a>
 
-<a href="https://www.instagram.com/joaozambreti/">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5519997284843">
-  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
-</a>
-
-<a href="mailto:joaolucasabdalazambretti@hotmail.com">
- <img src="https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
-</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/joaozambreti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white"></a><a href="https://www.instagram.com/joaozambreti/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://wa.me/5519997284843"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white"></a><a href="mailto:joaolucasabdalazambretti@hotmail.com"><img src="https://img.shields.io/badge/E--mail-blue?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+</p>
