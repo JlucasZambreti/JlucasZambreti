@@ -9,16 +9,12 @@ Sou profissional em transição de carreira para a área de Qualidade de Softwar
 Atualmente estou desenvolvendo conhecimentos em testes manuais, testes de API e automação de testes, utilizando ferramentas como Cypress e Postman.
 
 ## 🧠 Conhecimentos
-| Tecnologia | Nível |
-|---|---|
-| Test Case Design | intermediário |
-| Functional Testing | intermediário |
-| Regression Testing | intermediário |
-| Exploratory Testing | intermediário |
-| Bug Reporting | intermediário |
-| API Testing | Em desenvolvimento |
-| End-to-End Testing | intermediário |
-| Test Automation | Em desenvolvimento |
+| --//-- | Tecnologias | --//-- |
+|---|---| --- |
+| Test Case Design | Test Automation | End-to-End Testing |
+| Functional Testing | API Testing | Bug Reporting |
+| Regression Testing | Exploratory Testing | |
+
 
 ## 📂 Projetos
 
