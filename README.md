@@ -22,8 +22,7 @@ Atualmente estou desenvolvendo conhecimentos em testes manuais, testes de API e 
 
 ## 📂 Projetos
 
-🔹 **QA Manual Testing**
-Casos de teste, bug reports, checklists e documentação de testes.
+🔹 **[QA Manual Testing](https://github.com/JlucasZambreti/QA-Manual-Testing)**
 
 ## 📚 Atualmente estudando
 
